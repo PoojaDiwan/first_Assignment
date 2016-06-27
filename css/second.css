@@ -1,0 +1,48 @@
+body
+{
+	background:#4d0056;
+}
+.container_12
+{
+	background:gray;
+	
+}
+nav li,a,h1
+{
+	 display:inline; 
+	 color: black;
+	 margin:auto;
+	 padding:10px;
+	 font-family: 'Indie Flower', cursive;
+	 font-size:20px;
+	 
+}
+.grid_4 img
+{
+	padding-top:-10px;
+	width:300px;
+	height:200px;
+	border:solid black 2px;
+	
+}
+.grid_4 h2
+{
+	font-family:'Indie Flower', cursive;
+}
+.foot img
+{
+	height:25px;
+	width:30px;
+	
+}
+.foot li
+{
+	display:inline;
+}
+.footer grid_5 li
+{
+	display:inline;
+	height:25px;
+	width:30px;
+	/* padding-top:10px; */
+}

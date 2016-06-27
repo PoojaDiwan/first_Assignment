@@ -1,0 +1,101 @@
+
+body
+{
+	background:#4d0056;
+}
+.container_12
+{
+	background:gray;
+	
+}
+
+nav li,a,h1
+{
+	 display:inline; 
+	 color: black;
+	 margin:auto;
+	 padding:10px;
+	 font-family: 'Indie Flower', cursive;
+	 font-size:20px;
+	 
+}
+.head
+{
+	padding-top:10px;
+	padding-bottom:5px;
+	position:fixed;
+	font-family: 'Indie Flower', cursive;
+	background:#14a989;
+	
+}
+.main
+{
+	margin:30px,0px;
+	padding-top:10px;
+	
+}
+
+.grid_4 img
+{
+	padding-top:100px;
+	width:300px;
+	height:200px;
+	/* border:solid black 2px; */
+	
+}
+.grid_4 p
+{
+	font-family: 'Inconsolata', ;
+	color:black;
+	font-size:18px;
+	
+}
+.hero img
+{
+	margin:auto;
+	width:960px;
+	height:350px;
+	padding-bottom:20px;
+}
+.column container_12
+{
+	padding-right:10px;
+	
+}
+.foot img
+{
+	height:30px;
+	width:35px;
+	
+}
+.grid_6
+{
+padding:40px;
+}
+.foot li
+{
+	display:inline;
+	
+}
+.footimg
+{
+	float:right;
+	padding-top:10px;
+
+	
+} 
+/* .foot1
+{
+	background:red;
+} */
+.foot grid_7
+{
+	padding-top:10px;
+}
+ .foot1
+{
+	background:#4d0056;
+	width:960px;
+	margin:auto;
+	padding-top:10px;
+} 
